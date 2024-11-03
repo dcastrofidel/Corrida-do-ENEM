@@ -1,0 +1,42 @@
+body {
+    background-image:url(../imagens/bgcity.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+.gifbutton {
+    background-color: transparent; 
+    border: none;
+    padding: 0; 
+    cursor: pointer; 
+}
+
+.gifbutton img {
+    width: 250px; 
+    height: auto; 
+}
+
+header {
+    box-sizing: border-box;
+    display: absolute;
+    margin: auto;
+    padding: .5rem;
+    text-align: center;
+    width: 100%
+}
+
+header img {
+    max-width: 500px
+}
+
+footer {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color: #ffffff;
+    box-sizing: border-box;
+}

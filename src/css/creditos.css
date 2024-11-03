@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    background-image: url(../imagens/creditosbg.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+footer {
+    width: 4%;
+    padding: 1px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    color: #ffffff;
+    box-sizing: border-box;
+}
+
+footer img {
+
+    max-width: 70px
+}
+
+.pixel-text {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    color: #ffffffe5; 
+    text-shadow: 
+        1px 1px 0px #000000,
+        2px 2px 0px #000000,
+        3px 3px 0px #000000; 
+}
+
+p {
+    font-family: 'Press Start 2P', cursive; 
+    font-size: 15px;
+    color: #00ff40c4;
+    text-shadow: 
+        1px 1px 0px #000000,
+        2px 2px 0px #000000,
+        3px 3px 0px #000000; 
+}
